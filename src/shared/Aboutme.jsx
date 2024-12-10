@@ -28,12 +28,8 @@ export default {
   and Tailwind CSS for a modern and customizable design`,
   ProjectTech2:'Tailwind css, Vite, ReactJs',
 
-  ProjectTitle3: 'E-commerce',
-  ProjectDesc3: `An optimized and responsive e-commerce product landing page built with Vite for fast development, React.js for dynamic content, 
-  and Tailwind CSS for sleek, modern, and mobile-friendly styling. The page showcases products with smooth animations, intuitive navigation, 
-  and a clean user interface, ensuring a seamless shopping experience across all devices`,
+  ProjectTitle3: 'Money Tracker',
+  ProjectDesc3: `I developed a Money Tracker application using Vite and React.js, designed for efficient tracking of monthly expenses.`,
   ProjectTech3:'Tailwind css, Vite, ReactJs',
- 
-
 
 }
